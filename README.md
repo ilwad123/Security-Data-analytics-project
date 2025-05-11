@@ -27,7 +27,7 @@ This project investigates internal user activity to identify the main suspect be
 
 ## Project Summary
 
-The raw datasets were cleaned and transformed using Python. Visualizations were developed to highlight patterns in employee behavior across systems.
+The raw datasets were cleaned and transformed using Python. Visualisations were developed to highlight patterns in employee behaviour across systems.
 
 - **Question 6**: Presents detailed visual analyses across each dataset (e.g., login irregularities, file access spikes, USB usage trends)
 - **Question 7**: Compiles findings into a final narrative identifying the main suspect, supported by a timeline of correlated activities
