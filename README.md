@@ -1,4 +1,4 @@
-# Cyber Data Analytics Investigation
+# Security Data Analytics Investigation
 
 This project investigates internal user activity to identify the main suspect behind a potential data breach. The analysis integrates multiple behavioural datasets, including email logs, file access records, login patterns, web browsing activity, and USB usage.
 
