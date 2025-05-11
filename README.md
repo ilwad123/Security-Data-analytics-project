@@ -1,6 +1,6 @@
 # Cyber Data Analytics Investigation
 
-This project investigates internal user activity to identify the main suspect behind a potential data breach. The analysis integrates multiple behavioral datasets, including email logs, file access records, login patterns, web browsing activity, and USB usage.
+This project investigates internal user activity to identify the main suspect behind a potential data breach. The analysis integrates multiple behavioural datasets, including email logs, file access records, login patterns, web browsing activity, and USB usage.
 
 ---
 
@@ -33,3 +33,5 @@ The raw datasets were cleaned and transformed using Python. Visualisations were 
 - **Question 7**: Compiles findings into a final narrative identifying the main suspect, supported by a timeline of correlated activities
 
 ---
+
+> This project was originally completed as part of a university assignment (Security Data Analytics module). It has been extended and formatted for portfolio presentation.
